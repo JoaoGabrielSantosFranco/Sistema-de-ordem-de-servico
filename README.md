@@ -32,6 +32,7 @@ id_cliente (chave estrangeira referenciando a tabela Clientes)<br>
 id_tecnico (chave estrangeira referenciando a tabela Técnicos)<br>
 data_criacao<br>
 data_conclusao<br>
+tipo_servico<br>
 descricao_problema<br>
 descricao_solucao</p>
 <p class="has-line-data" data-line-start="68" data-line-end="69">Diagrama de casos de uso.</p>
